@@ -208,3 +208,5 @@ var inputRect = input.getBoundingClientRect();
 
 
 ## 二、React 项目实践
+
+### [详情可参考笔记文档](/%E7%AC%94%E8%AE%B0.md)。
