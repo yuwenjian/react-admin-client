@@ -75,7 +75,3 @@ export default class Login extends Component{
         )
     }
 }
-
-
-// 这是测试的 git 内容
-// 这是 main 分支的内容
